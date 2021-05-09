@@ -6,3 +6,7 @@ Simple string authorization check in Python.
 ## Dependencies
 * Python-vlc
 * [VLC](https://www.videolan.org/vlc/)
+
+## Notes
+* "%KOKOPOP202?" is the authorization key.
+* "rhydonium" is the termination key.
